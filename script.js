@@ -52,7 +52,7 @@ ScrollReveal().reveal(".home-content, .heading", { origin:'top', delay:100});
 ScrollReveal().reveal('.social-media, .about-content ,.about-image', { delay: 200 });
 
 const typed= new Typed('.typed-text',{
-  strings:['FRONT END | REACT DEVELOPER','designer'],
+  strings:['FRONT END | REACT DEVELOPER','Writer', 'Web designer'],
   typeSpeed:100,
   backSpeed:100,
   backDelay:1000,
